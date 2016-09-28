@@ -180,3 +180,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+[user]
+	name = Juho Kim
+	email = truepanic@gmail.com
+  signingkey = 94F92ECD89293C08 
